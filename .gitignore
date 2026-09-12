@@ -1,0 +1,4 @@
+.sites-runtime/
+.netlify/
+*.tar.gz
+
