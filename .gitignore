@@ -1,4 +1,6 @@
 .sites-runtime/
 .netlify/
 *.tar.gz
-
+/.artifact-runtime/
+/outputs/
+/scripts/build_project_tracker.mjs
